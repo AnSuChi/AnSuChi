@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Projects:
 - https://github.com/ION-Racing-UiS/ionRacing_Website 
 
