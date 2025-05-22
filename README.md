@@ -1,5 +1,4 @@
-Projects:
-- https://github.com/ION-Racing-UiS/ionRacing_Website 
+
 
 <!--
 **AnSuChi/AnSuChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
